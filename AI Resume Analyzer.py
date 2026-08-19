@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz
+import fit
 import re
 from collections import Counter
 
